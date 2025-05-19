@@ -55,3 +55,7 @@ for($i=0; $i<$count_of_files; $i++)
 // {
 //     echo $array[$i];
 // }
+
+#ASSIGNMENT:
+#1. Another examples
+#2. Another way to count array
