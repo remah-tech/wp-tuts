@@ -1,4 +1,7 @@
 <?php
+/**
+ * DATEL 19 May 2025
+ */
 
 // $path = getcwd(); //get real path
 $path = '/var/www/html/php-tutss';
@@ -58,4 +61,4 @@ for($i=0; $i<$count_of_files; $i++)
 
 #ASSIGNMENT:
 #1. Another examples
-#2. Another way to count array
+#2. Another way to count an array
