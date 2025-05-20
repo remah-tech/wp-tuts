@@ -4,7 +4,7 @@
  */
 
 // $path = getcwd(); //get real path
-$path = '/var/www/html/php-tutss';
+$path = '/var/www/html/php-tuts';
 $dir = scandir($path); //list of files and directories, return array|bool(false)
 
 /**
